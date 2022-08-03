@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Carro-de-compras-en-React/static/css/main.e6c13ad2.css",
+    "main.js": "/Carro-de-compras-en-React/static/js/main.70abe3e3.js",
+    "static/js/787.c94ed2c6.chunk.js": "/Carro-de-compras-en-React/static/js/787.c94ed2c6.chunk.js",
+    "index.html": "/Carro-de-compras-en-React/index.html",
+    "main.e6c13ad2.css.map": "/Carro-de-compras-en-React/static/css/main.e6c13ad2.css.map",
+    "main.70abe3e3.js.map": "/Carro-de-compras-en-React/static/js/main.70abe3e3.js.map",
+    "787.c94ed2c6.chunk.js.map": "/Carro-de-compras-en-React/static/js/787.c94ed2c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.70abe3e3.js"
+  ]
+}
